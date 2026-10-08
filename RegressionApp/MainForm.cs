@@ -410,7 +410,7 @@ public sealed class MainForm : Form
         _dataGrid.Columns.Add(new DataGridViewTextBoxColumn { HeaderText = "Y", DataPropertyName = nameof(DataPoint.Y), Width = 72, DefaultCellStyle = new DataGridViewCellStyle { Format = "0.####" } });
         _dataGrid.Columns.Add(new DataGridViewTextBoxColumn { HeaderText = "Set", DataPropertyName = nameof(DataPoint.Set), Width = 62, ReadOnly = true });
         _dataGrid.DataSource = _samples;
-        _dataGrid.CellValidating += (_, e) =>
+        _dataGrid.CellValidating += (sender, e) =>
         {
             if (e.RowIndex < 0 || e.ColumnIndex > 1) return;
             if (!TryParseDouble(Convert.ToString(e.FormattedValue), out _))
