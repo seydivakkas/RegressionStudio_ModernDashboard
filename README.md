@@ -7,6 +7,14 @@ C# ve **.NET 8 Windows Forms** ile geliştirilmiş, regresyon algoritmalarının
 **Teknolojiler:** C# · .NET 8 · Windows Forms (WinForms) · özel çizim bileşenleri · GitHub Actions  
 **Çalışma ortamı:** Windows · **Çözüm:** `RegressionStudio.sln` · **Başlangıç projesi:** `RegressionApp`
 
+## Temsili arayüz önizlemesi
+
+> **Önemli:** Bu bölümde kullanılacak görsel, projenin kaynak kodundaki arayüz düzeni ve tema renkleri esas alınarak **yapay zekâ ile oluşturulmuş temsili bir tasarımdır**. **Gerçek uygulama ekran görüntüsü değildir.** Görseldeki grafikler, metrikler, eğitim sonuçları, tahmin güvenleri ve süreler **örnek değerlerdir; çalıştırılıp ölçülmüş sonuçlar olarak yorumlanmamalıdır.**
+
+<!-- AI_ARAYUZ_GORSEL_BASLANGIC -->
+*Görsel GitHub deposunun `assets/screenshots/ai-temsili-arayuz.png` yoluna eklendiğinde burada gösterilecektir.*
+<!-- AI_ARAYUZ_GORSEL_BITIS -->
+
 ## İçindekiler
 
 1. [Özellikler](#özellikler)
