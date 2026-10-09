@@ -10,7 +10,7 @@ C# ve **.NET 8 Windows Forms** ile geliştirilmiş, regresyon algoritmalarının
 ## Temsili arayüz önizlemesi
 
 <!-- AI_ARAYUZ_GORSEL_BASLANGIC -->
-*Görsel, `assets/screenshots/ai-temsili-arayuz.png` dosyası depoya eklendiğinde burada görünecektir.*
+![RegressionStudio regresyon grafikleri, veri noktaları ve metrik paneli](assets/screenshots/ai-temsili-arayuz.png)
 <!-- AI_ARAYUZ_GORSEL_BITIS -->
 
 Bu görsel, **RegressionStudio** kaynak kodundaki açık renkli Windows Forms düzenini, veri kümesi oluşturucusunu, regresyon eğrilerini, residual grafiğini ve **METRICS** sekmesini örneklemek için yapay zekâ yardımıyla hazırlanmıştır. **Gerçek uygulamadan alınmış bir ekran görüntüsü değildir.** Grafikteki örnekler, MSE/RMSE/MAE/R² değerleri ve karşılaştırma sonuçları ölçülmüş deney verileri olarak değerlendirilmemelidir.
